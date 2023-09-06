@@ -8,7 +8,7 @@ About Project: Data preprocessing is a critical aspect of all stages of data ana
 - Data standardization
 - Data normalization (centering/scaling)
 - Binning
-- Identify Indicator variable
+- Create Indicator variable(dummy variables) to represent data categories
 
 At the end of the project, I was able to convert the data from the initial format to a format suitable for further analysis.
 
