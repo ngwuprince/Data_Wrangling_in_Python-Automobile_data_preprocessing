@@ -9,3 +9,8 @@ About Project: Data preprocessing is a critical aspect of all stages of data ana
 - Data normalization (centering/scaling)
 - Binning
 - Identify Indicator variable
+
+At the end of the project, I was able to convert the data from the initial format to a format suitable for further analysis.
+
+The Following question(s) was answered: 
+- What is the fuel consumption (L/100k) rate for the diesel car?
