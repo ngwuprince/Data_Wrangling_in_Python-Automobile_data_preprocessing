@@ -15,3 +15,8 @@ At the end of the project, I was able to convert the data from the initial forma
 
 The Following question(s) was answered: 
 - What is the fuel consumption (L/100k) rate for the diesel car?
+
+Language: Python
+Packages used: Pandas, Numpy, Matplotlib
+
+Repo contains: The analysis notebook, raw data, and cleaned/transformed data.
